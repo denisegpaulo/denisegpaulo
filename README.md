@@ -30,11 +30,10 @@ Let’s connect and build something amazing together! 🚀
     Fluent English
     Intermediate French
 
-
+### Github stats
 ![Denise's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisegpaulo&show_icons=true&theme=dracula)
 
 ### Technologies I use in my daily life
-
 Languages and Tools
 
 <div style ="display: inline_block"><br/>
