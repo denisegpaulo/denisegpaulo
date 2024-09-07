@@ -24,11 +24,18 @@ Let’s connect and build something amazing together! 🚀
 [![Goodreaders](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/15336519-denise-gomes-paulo)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/deniseGomes5568716832)
 
+🌍 Languages:
+
+    Native Portuguese
+    Fluent English
+    Intermediate French
 
 
 ![Denise's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisegpaulo&show_icons=true&theme=dracula)
 
 ### Technologies I use in my daily life
+
+Languages and Tools
 
 <div style ="display: inline_block"><br/>
     <img align = "center" alt = "html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -43,3 +50,5 @@ Let’s connect and build something amazing together! 🚀
 ### My contributions
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisegpaulo)](https://github.com/denisegpaulo/github-readme-stats)
+
+
