@@ -1,4 +1,5 @@
 ## 👋 Hi there! I'm Denise Gomes 👩‍🔧
+![](https://komarev.com/ghpvc/?username=denisegpaulo&style=for-the-badge&abbreviated=true&color=blueviolet)
 I'm an Electrical Engineer with a strong background in electrical design and a deep passion for science, technology, and engineering. With years of experience in designing and implementing electrical systems, I’m now diving into the fascinating world of coding and intelligent systems in my free time.
 
 🔧 What I do:
