@@ -1,49 +1,113 @@
-## 👋 Hi there! I'm Denise Gomes 👩‍🔧                                                                                                         
-I'm an Electrical Engineer with a strong background in electrical design and a deep passion for science, technology, and engineering. With years of experience in designing and implementing electrical systems, I’m now diving into the fascinating world of coding and intelligent systems in my free time.  
+# Hi, I'm Denise Gomes Paulo 👋
 
-🔧 What I do:
+**Data Analytics & Cloud Computing | AWS Certified Cloud Practitioner | Electrical Engineering Background**
 
-    Electrical Design and Project Engineering
-    Automation and Control Systems
-    Power Systems and Distribution
+I am an Electrical Engineering professional transitioning into **Data Analytics, Cloud Computing, and AI-driven solutions**.  
+My background in engineering helped me build strong analytical thinking, problem-solving skills, and a structured approach to technology projects.
 
-🌱 Currently learning:
+I am currently building a portfolio focused on **Python, SQL, Power BI, AWS, Terraform, and cloud-based architectures**, with hands-on projects that combine data, automation, scalability, and business value.
 
-    Machine Learning
-    AI-driven automation
-    Data science and coding (Python, Power BI, etc.)
+---
 
-💡 Why I’m here:
+## About me
 
-    I’m here to learn, share, and connect with like-minded professionals, as I expand my skillset into AI applications. 
-    I love exploring how technology can transform industries, and I’m eager to collaborate and contribute to innovative 
-    projects.
+- Based in Montréal, Canada 🇨🇦  
+- AWS Certified Cloud Practitioner  
+- AWS re/Start Graduate  
+- Google Data Analytics Professional Certificate  
+- Background in Electrical Engineering, technical documentation, systems thinking, and project execution  
+- Interested in Data Analytics, Cloud Support, Cloud Operations, Business Intelligence, and Junior Cloud/Data roles  
 
-Let’s connect and build something amazing together! 🚀
+---
 
-[![Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisengdados/)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/7814021)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Goodreaders](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/15336519-denise-gomes-paulo)
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/deniseGomes5568716832)
-### Technologies I use in my daily life
-<div style ="display: inline_block"><br/>
-    <img align = "center" alt = "html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <img align = "center" alt = "html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >   
-    <img align = "center" alt = "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img align = "center" alt = "html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img align = "center" alt = "html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align = "center" alt = "html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">    
-</div>
-🌍 Languages:
+## Current focus
 
-    Native Portuguese
-    Fluent English
-    Intermediate French
+I am currently strengthening my skills in:
 
-### My contributions and Github stats     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisegpaulo)](https://github.com/denisegpaulo/github-readme-stats)    ![Denise's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisegpaulo&show_icons=true&theme=dracula)  
+- Data Analytics and Business Intelligence  
+- Python for data analysis and automation  
+- SQL for data extraction and reporting  
+- Power BI dashboards and data storytelling  
+- AWS cloud infrastructure and cloud architecture  
+- Terraform and Infrastructure as Code  
+- AI applied to business and productivity solutions  
 
- ![](https://komarev.com/ghpvc/?username=denisegpaulo&style=for-the-badge&abbreviated=true&color=blueviolet)
+---
 
+## Tech stack
 
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Web Foundations
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## Featured project
+
+### Hórus Tech | Escola Tech AWS Architecture
+
+I worked on a cloud infrastructure project designed for an educational institution, focused on improving the availability, scalability, security, and cost-efficiency of its web application.
+
+The solution was designed using AWS services such as:
+
+- VPC with public subnets across multiple Availability Zones  
+- Application Load Balancer  
+- EC2 instances with Auto Scaling  
+- Security Groups  
+- CloudWatch monitoring  
+- Terraform for Infrastructure as Code  
+- Cost optimization considerations based on traffic patterns  
+- Future evolution with AI services and cloud-native improvements  
+
+This project allowed me to apply cloud architecture concepts in a realistic scenario, connecting technical design decisions with business needs such as reliability, performance, security, and cost control.
+
+---
+
+## Certifications & learning path
+
+- AWS Certified Cloud Practitioner  
+- AWS re/Start Graduate  
+- Google Data Analytics Professional Certificate  
+- Currently studying AWS, Python, SQL, Power BI, Terraform, and applied AI  
+
+---
+
+## Languages
+
+- Portuguese: Native  
+- English: Fluent  
+- French: Intermediate  
+- Spanish: Intermediate  
+
+---
+
+## What I am looking for
+
+I am open to opportunities where I can apply my analytical mindset, cloud knowledge, and engineering background in roles such as:
+
+- Junior Data Analyst  
+- Data Analyst Intern / Entry-Level Data Analyst  
+- Cloud Support Associate  
+- Junior Cloud Operations  
+- Business Intelligence Assistant  
+- Technical Support / IT Analyst with Cloud or Data focus  
+
+---
+
+## Let's connect
+
+[LinkedIn](COLE_AQUI_SEU_LINKEDIN)  
+[GitHub](COLE_AQUI_SEU_LINK_DO_GITHUB)
