@@ -109,5 +109,7 @@ I am open to opportunities where I can apply my analytical mindset, cloud knowle
 
 ## Let's connect
 
-[LinkedIn](COLE_AQUI_SEU_LINKEDIN)  
-[GitHub](COLE_AQUI_SEU_LINK_DO_GITHUB)
+[![Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisengdados/) 
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/7814021)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949873633189322783)
+[![Goodreaders](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/15336519-denise-gomes-paulo)
