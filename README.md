@@ -66,12 +66,23 @@ I am currently strengthening my skills in:
 
 ---
 
-## Certifications & learning path
+## Learning Roadmap
 
-- AWS Certified Cloud Practitioner  
-- AWS re/Start Graduate  
-- Google Data Analytics Professional Certificate  
-- Currently studying AWS, Python, SQL, Power BI, Terraform, and applied AI  
+My current learning path is focused on connecting **Data Analytics, Cloud Computing, and Applied AI** to build practical, business-oriented solutions.
+
+| Track | Current focus | Goal |
+|---|---|---|
+| Data Analytics | Python, SQL, Power BI, Excel | Build dashboards, reports, and data-driven insights |
+| Cloud Computing | AWS, Terraform, Linux, CloudWatch | Design scalable, secure, and cost-aware cloud solutions |
+| Applied AI | AI automation, Agentic AI concepts, productivity workflows | Explore how AI can support business processes and decision-making |
+| Portfolio Development | GitHub projects, technical documentation, case studies | Demonstrate hands-on skills to recruiters and hiring teams |
+
+### Next milestones
+
+- Build end-to-end data analytics projects using Python, SQL, and Power BI  
+- Publish more AWS and Terraform projects with clear documentation  
+- Continue studying Applied AI and Agentic AI concepts  
+- Strengthen my portfolio for junior Data, Cloud, BI, and Cloud Support roles  
 
 ---
 
