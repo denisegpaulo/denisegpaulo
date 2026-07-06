@@ -55,7 +55,14 @@ I am currently strengthening my skills in:
 
 ---
 
-## Featured project
+## Certifications and Badges
+
+<a href="https://www.credly.com/badges/62b91ce3-c8a2-4b1b-958c-2374c2edab3d)"><img src="https://images.credly.com/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png" alt="AWS General Immersion Day Participant" width="98"/></a>
+<a href="https://www.credly.com/badges/d633c8c6-62bd-4ddd-aeb1-7d6f86de3e72)"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="98"/></a>
+<a href="https://www.credly.com/badges/d0277056-5ddc-4981-bd81-cc95d188ca28)"><img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="98"/></a>
+<a href="https://www.credly.com/badges/6f5208e4-9863-40b2-9e41-10f34473acd6)"><img src="https://images.credly.com/images/d4185c81-d7ad-4220-bf32-46168be588bc/blob" alt="Google Data Analytics Professional Certificate(v.3)" width="98"/></a>
+<a href="https://www.credly.com/badges/9a399d6e-29ee-4bc5-a8f6-d38aaec09738)"><img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge" width="98"/></a>
+<a href="https://www.credly.com/badges/50ec6467-f37e-485f-a76e-ce114df84f54)"><img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="98"/></a>
 
 ---
 
