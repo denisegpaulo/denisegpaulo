@@ -57,23 +57,6 @@ I am currently strengthening my skills in:
 
 ## Featured project
 
-### Hórus Tech | Escola Tech AWS Architecture
-
-I worked on a cloud infrastructure project designed for an educational institution, focused on improving the availability, scalability, security, and cost-efficiency of its web application.
-
-The solution was designed using AWS services such as:
-
-- VPC with public subnets across multiple Availability Zones  
-- Application Load Balancer  
-- EC2 instances with Auto Scaling  
-- Security Groups  
-- CloudWatch monitoring  
-- Terraform for Infrastructure as Code  
-- Cost optimization considerations based on traffic patterns  
-- Future evolution with AI services and cloud-native improvements  
-
-This project allowed me to apply cloud architecture concepts in a realistic scenario, connecting technical design decisions with business needs such as reliability, performance, security, and cost control.
-
 ---
 
 ## Certifications & learning path
